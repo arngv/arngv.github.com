@@ -2,6 +2,12 @@ body {
 	overflow: hidden;
 }
 
+.navbar-inverse .brand {
+	color: #ffffff;
+	font-size: 2em;
+	letter-spacing: .1em;
+}
+
 #page1 {
 	height:1100px;
 	padding-top:80px;
@@ -16,4 +22,8 @@ body {
 	height:1100px;
 	padding-top:80px;
 }
-	
+
+#page4 {
+	height:1100px;
+	padding-top:80px;
+}
